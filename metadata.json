@@ -1,0 +1,6 @@
+{
+  "name": "Mỗi Em Một Bước Tiến - AI Cá Nhân Hóa Học Tập Lớp 1",
+  "description": "Nền tảng AI cá nhân hóa học tập và hỗ trợ giáo dục hòa nhập lớp 1 của cô Nguyễn Thị Thùy Linh, Trường TH Nguyễn Hiền, An Giang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
